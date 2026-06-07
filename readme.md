@@ -1,6 +1,6 @@
-# Pentagon Bites Food Delivery
+# # Dhee Quick Bites - Food Delivery Website
 
-A full-stack Food Delivery Web Application built using Django, HTML, CSS, JavaScript, and SQLite.
+A Django-based food delivery web application that allows users to browse food items, add items to a cart, manage delivery addresses, and place orders online.
 
 ## Features
 
